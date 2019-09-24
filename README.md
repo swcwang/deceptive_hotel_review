@@ -38,13 +38,3 @@ data folder
 * models_sentiment.csv - model test results for sentiment analysis
 
 		
-supplemntary folder
-===================
-analysis1.ipynb
-Binary_classification_by_deep_learning.ipynb
-Data analysis for validation result.ipynb
-Latent_Dirichlet_Allocation_(LDA)_-_n_of_components_tuning.ipynb
-ngrams_analysis.ipynb
-test_lr-norm_lemma.ipynb
-test_lr_norm_stem.ipynb
-test_naivebayse-norm_lemma.ipynb	
